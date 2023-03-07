@@ -1,0 +1,19 @@
+.style-glasses {
+    top: 80px;
+    left: 50%;
+    transform: translateX(-50%);
+    color: red;
+    width: 160px;
+    opacity: 0.7;
+    // animation: aniGlass 1s;
+}
+
+// @keyframes aniGlass {
+//     from {
+//         transform: rotate(-45deg);
+//     }
+
+//     to {
+//         transform: rotate(0deg);
+//     }
+// }
